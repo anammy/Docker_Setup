@@ -132,7 +132,7 @@ syntax on
 " Color Scheme
 set background=dark
 set t_Co=256
-colorscheme kuroi
+silent! colorscheme kuroi
 
 " NERDTree
 " Open file directory automatically when vim starts
